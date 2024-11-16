@@ -1,0 +1,60 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+}
+header {background-color:rgb(0, 0, 0);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    }
+nav { background-color:gray;
+  color: white;
+  padding: 10px;
+  text-align: center ;
+} 
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: double;
+}
+main {
+    padding: 0px;
+    margin: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+.menu-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+.menu-item img {
+    width: 100px; 
+    height:100px;
+    margin-right: 20px;
+}
+
+.ikon-sosmed {
+    padding: 10px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+background-color: #fff;
+}
+
+.gambar {
+    height: 13vh;
+}
+
+.font-contact {
+    color:black;
+}
